@@ -136,4 +136,4 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
                 char += 1
             print(plain)
 ```
-
+![flag](https://github.com/kaizensecurity/WGMY2018/blob/master/AES-ECB-MAGIC/saes.png)
