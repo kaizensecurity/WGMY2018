@@ -42,6 +42,8 @@ if __name__ == '__main__':
     exploit()
 ```
 
+![flag](https://github.com/kaizensecurity/WGMY2018/blob/master/Baby%20Pwn%202.0/pwn.png)
+
 ```
 flag : wgmy{w3ll_don3_m473!}
 ```
