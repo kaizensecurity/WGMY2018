@@ -18,7 +18,7 @@ Console.ReadKey();
 
 So here we go we just need to paste the code in visual studio (remember to copy function Decrypt too) and run the code and we got the flag.
 
-
+![flag](https://github.com/kaizensecurity/WGMY2018/blob/master/Just%20Valid%20It!/flag.jpg)
 ```
 flag : wgmy{is_1t_DLL_1nJ3ct10n?}
 ```
